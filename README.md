@@ -35,8 +35,7 @@ Welcome to my GitHub profile! I am a passionate web developer specializing in mo
 
 - Writing clean, maintainable, and scalable code.
 - Following best practices in both frontend and backend development.
-- Using version control (Git) to manage projects and collaborate with teams.
-- Leveraging REST APIs to connect backend and frontend seamlessly.
+- Using version control (Git) to manage projects.
 
 ---
 
