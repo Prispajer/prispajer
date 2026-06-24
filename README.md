@@ -50,6 +50,25 @@ https://prispajer.github.io/prispajer-portfolio
 
 ---
 
+## 📑 Developed projects
+
+### 🔗 Potrzebnik
+
+<div align="left">
+  <a href="https://github.com/twoj-login/potrzebnik">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=twoj-login&repo=potrzebnik&theme=tokyonight&show_owner=true" alt="Potrzebnik" />
+  </a>
+</div>
+
+A platform is actively being built to connect pro bono organizations (such as orphanages) with potential donors.
+
+**Project Dynamics:**
+* Developed in a cross-functional team environment collaborating closely with a Product Owner, UX Designers, and Frontend/Backend developers to deliver real-world social value.
+
+**Tech:** `Next.js` • `TypeScript` • `Drizzle ORM`
+
+---
+
 ## 💬 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/adrian-kozie%C5%82-9413142b0/)
