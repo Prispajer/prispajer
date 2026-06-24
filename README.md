@@ -60,6 +60,7 @@ https://prispajer.github.io/prispajer-portfolio
   </a>
 </div>
 
+
 A platform is actively being built to connect pro bono organizations (such as orphanages) with potential donors.
 
 **Project Dynamics:**
