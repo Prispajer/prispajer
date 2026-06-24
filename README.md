@@ -55,8 +55,8 @@ https://prispajer.github.io/prispajer-portfolio
 ### 🔗 Potrzebnik
 
 <div align="left">
-  <a href="https://github.com/twoj-login/potrzebnik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=twoj-login&repo=potrzebnik&theme=tokyonight&show_owner=true" alt="Potrzebnik" />
+  <a href="https://github.com/potrzebnik/potrzebnik">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potrzebnik&repo=potrzebnik&theme=tokyonight" alt="Potrzebnik Repo" />
   </a>
 </div>
 
