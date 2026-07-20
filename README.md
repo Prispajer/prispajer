@@ -54,11 +54,7 @@ https://prispajer.github.io/prispajer-portfolio
 
 ### 🔗 Potrzebnik
 
-<div align="left">
-  <a href="https://github.com/potrzebnik/potrzebnik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=potrzebnik&repo=potrzebnik&theme=tokyonight" alt="Potrzebnik Repo" />
-  </a>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Potrzebnik-blue?logo=github)](https://github.com/potrzebnik/potrzebnik)
 <br/>
 
 A platform is actively being built to connect pro bono organizations (such as orphanages) with potential donors.
