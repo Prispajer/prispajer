@@ -1,6 +1,6 @@
 # Hello, I'm Prispajer 👋
 
-Welcome to my GitHub profile! I am a passionate web developer specializing in modern technologies. I love creating scalable and high-performance web applications, and I am always excited to learn new things.
+Welcome to my GitHub profile! I am a passionate web developer specializing in modern technologies. I love creating scalable and high-performance web applications, and I am always excited to learn new things. My master's thesis compared **React vs Vue**, giving me solid foundations in modern frontend frameworks.
 
 ---
 
@@ -41,16 +41,16 @@ Welcome to my GitHub profile! I am a passionate web developer specializing in mo
 - Writing clean, maintainable, and scalable code.
 - Following best practices in both frontend and backend development.
 - Using version control (Git) to manage projects.
-  
+
 ---
 
-## 🚀 My Portfolio 
+## 🚀 My Portfolio
 
 https://prispajer.github.io/prispajer-portfolio
 
 ---
 
-## 📑 Developed projects
+## 📑 Developed Projects
 
 ### 🔗 Potrzebnik
 
@@ -66,7 +66,67 @@ A platform is actively being built to connect pro bono organizations (such as or
 
 ---
 
-## 💬 Let’s Connect
+### 🔗 RIGBA Game Store
+
+[![GitHub](https://img.shields.io/badge/GitHub-RIGBA-blue?logo=github)](https://github.com/Prispajer/rigba-game-store)
+<br/>
+
+A full-featured game store & database, built from scratch over 11 months — covering frontend, backend, testing, documentation, and external integrations.
+
+**Project Dynamics:**
+* Secure authentication (NextAuth: Google/Facebook/Discord) with email verification and **2FA**.
+* Payments via Stripe, game data from RAWG API, uploads via UploadThing, emails via Resend.
+* Global state with Redux Toolkit, tests with Jest, REST API with Prisma + PostgreSQL.
+
+**Tech:** `Next.js` • `TypeScript` • `Prisma` • `PostgreSQL`
+
+---
+
+### 🔗 Treasure Pick
+
+[![GitHub](https://img.shields.io/badge/GitHub-Treasure_Pick-blue?logo=github)](https://github.com/Prispajer/treasure-pick)
+<br/>
+
+A modular browser game system built on the PixiJS engine, designed according to Clean Architecture and SOLID principles.
+
+**Tech:** `TypeScript` • `PixiJS` • `PostgreSQL`
+
+---
+
+### 🔗 NewsPortalCMS
+
+[![GitHub](https://img.shields.io/badge/GitHub-NewsPortalCMS-blue?logo=github)](https://github.com/Prispajer/news-portal-cms)
+<br/>
+
+A CMS system for managing articles and categories in a news portal — with unit tests and Docker.
+
+**Tech:** `.NET 8` • `ASP.NET Core` • `EF Core` • `PostgreSQL` • `xUnit`
+
+---
+
+### 🔗 Suggor
+
+[![GitHub](https://img.shields.io/badge/GitHub-Suggor-blue?logo=github)](https://github.com/Prispajer/suggor-game)
+<br/>
+
+A 2D platformer game created as part of an engineering team project.
+
+**Tech:** `C#` • `Unity`
+
+---
+
+### 🔗 Game Navigator 🔒 *(in development)*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Game_Navigator-blue?logo=github)](https://github.com/Prispajer/game-navigator)
+<br/>
+
+An AI-powered game tracker that provides real-time, step-by-step guidance (AI + web scraping) to help players reach 100% game completion.
+
+**Tech:** `AI` • `Web Scraping`
+
+---
+
+## 💬 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/adrian-kozie%C5%82-9413142b0/)
 - 📖 [Facebook](https://www.facebook.com/adikoxi)
