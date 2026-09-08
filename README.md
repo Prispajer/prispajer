@@ -88,7 +88,7 @@ A full-featured game store & database, built from scratch over 11 months — cov
 
 A modular browser game system built on the PixiJS engine, designed according to Clean Architecture and SOLID principles.
 
-**Tech:** `TypeScript` • `PixiJS` • `PostgreSQL`
+**Tech:** `TypeScript` • `PixiJS` • `Vite`
 
 ---
 
