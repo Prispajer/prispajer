@@ -31,16 +31,15 @@ Welcome to my GitHub profile! I am a passionate web developer specializing in mo
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
 ---
 
-## 🚀 My Workflow
+## 🚀 Currently Working On
 
-- Writing clean, maintainable, and scalable code.
-- Following best practices in both frontend and backend development.
-- Using version control (Git) to manage projects.
+**Game Navigator** 🔒 — AI-powered game tracker providing real-time, step-by-step guidance (AI + web scraping) to help players reach **100% game completion**.
 
 ---
 
@@ -122,7 +121,7 @@ A 2D platformer game created as part of an engineering team project.
 
 An AI-powered game tracker that provides real-time, step-by-step guidance (AI + web scraping) to help players reach 100% game completion.
 
-**Tech:** `AI` • `Web Scraping`
+**Tech:** `C#` • `.NET / ASP.NET` • `AI` • `Web Scraping`
 
 ---
 
