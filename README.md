@@ -107,14 +107,14 @@ A modular browser game system built on the PixiJS engine, designed according to 
 
 ---
 
-### 🔗 NewsPortalCMS
+### 🔗 Taskly
 
-[![GitHub](https://img.shields.io/badge/GitHub-NewsPortalCMS-blue?logo=github)](https://github.com/Prispajer/news-portal-cms)
+[![GitHub](https://img.shields.io/badge/GitHub-Taskly-blue?logo=github)](https://github.com/Prispajer/taskly)
 <br/>
 
-A CMS system for managing articles and categories in a news portal — with unit tests and Docker.
+A modular task-management API designed using **Vertical Slice Architecture** and **Domain-Driven Design** — with marker-interface-based command/query routing, MediatR, EF Core interceptors, Docker and unit tests.
 
-**Tech:** `.NET 8` • `ASP.NET Core` • `EF Core` • `PostgreSQL` • `xUnit`
+**Tech:** `C#` • `ASP.NET Core` • `MediatR` • `EF Core` • `Docker` • `xUnit`
 
 ---
 
