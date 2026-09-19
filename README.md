@@ -49,7 +49,7 @@ https://prispajer.github.io/prispajer-portfolio
 
 ---
 
-## 📑 Developed Projects
+## ⭐ Featured Projects
 
 ### 🔗 ProMediak
 
