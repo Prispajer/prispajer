@@ -1,135 +1,86 @@
-# Hello, I'm Prispajer 👋
+# Project Portfolio — Prispajer (Adrian Kozieł)
 
-Welcome to my GitHub profile! I am a passionate web developer specializing in modern technologies. I love creating scalable and high-performance web applications, and I am always excited to learn new things. My master's thesis compared **React vs Vue**, giving me solid foundations in modern frontend frameworks.
+Full-stack developer · React / TypeScript / .NET · [github.com/Prispajer](https://github.com/Prispajer) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/adrian-kozie%C5%82-9413142b0/)
 
 ---
 
-## 🛠️ Technologies I Know
+## ⭐ Key Projects
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=flat-square&logo=bulma&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-5A2C9A?style=flat-square&logo=blazor&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-25D366?style=flat-square&logo=api&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+1. **ProMediak** — commercial photo & video platform independently designed and developed for a real client (wedding photography & videography company), **deployed and running in production on Vercel**. Presents photo/video content, company information and a contact form with spam protection. Strong focus on SEO, performance, responsiveness and accessibility; Upstash Redis rate limiting protects the contact endpoint from abuse. — *TypeScript, React, Next.js 16, Tailwind CSS, Upstash Redis, Nodemailer* — [GitHub](https://github.com/Prispajer/promediak-portfolio) · [🌐 Live](https://promediak.vercel.app)
+
+2. **RIGBA** — digital game marketplace built independently from scratch over 11 months. Combines a game database with an online store, including Google/Facebook/Discord authentication, email verification, 2FA, Stripe payments, RAWG API integration, file uploads and email notifications. — *TypeScript, React, Next.js, NextAuth.js, Redux Toolkit, Prisma, PostgreSQL, Stripe, React Hook Form, Zod, Jest* — [GitHub](https://github.com/Prispajer/rigba-game-store) · [🌐 Live](https://rigba-game-store.vercel.app)
+
+3. **Potrzebnik** ⭐4 — open-source platform connecting donors with organizations in need, including shelters and foundations. Developed in a cross-functional team with a Product Owner, UX designers and frontend/backend developers. — *Next.js, TypeScript, Drizzle ORM* — [GitHub](https://github.com/potrzebnik/potrzebnik)
+
+4. **Taskly** — modular task-management API designed using Vertical Slice Architecture and Domain-Driven Design. Includes marker-interface-based command/query routing, MediatR, EF Core interceptors, Docker and xUnit tests. — *C#, ASP.NET Core, MediatR, EF Core, Docker, xUnit* — [GitHub](https://github.com/Prispajer/taskly)
+
+5. **Treasure Pick** — modular browser game system built with PixiJS, following Clean Architecture and SOLID principles. — *TypeScript, PixiJS, Vite* — [GitHub](https://github.com/Prispajer/treasure-pick)
+
+6. **NewsPortalCMS** — CMS for a news portal with article and category management, Clean Architecture, PostgreSQL, Docker and unit tests. — *.NET 8, ASP.NET Core, EF Core, PostgreSQL, Docker, xUnit* — [GitHub](https://github.com/Prispajer/news-portal-cms)
+
+7. **Contractor Manager** — desktop application for managing contractors (CRUD, filtering, reporting) with local database persistence. — *C#, .NET 8, Windows Forms, EF Core, SQL Server* — [GitHub](https://github.com/Prispajer/contractor-manager)
+
+8. **Personal Portfolio** — personal developer portfolio showcasing projects, technologies and experience, with animated UI and responsive design. — *React, TypeScript, Vite, TailwindCSS, Motion* — [GitHub](https://github.com/Prispajer/prispajer-portfolio) · [🌐 Live](https://prispajer.github.io/prispajer-portfolio/)
+
+---
+
+## 📦 Other Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **messages-board** | Message management (CRUD), full frontend + backend | React, RTK Query, Node.js, Sequelize, Docker |
+| **product-shop** | Shop with feature-based architecture, debounced search and API integration | TypeScript, React, react-query |
+| **find-compare-movie** | Movie search and comparison using OMDB API | JavaScript, axios, Bulma, Mocha |
+| **gymLog** *(collaboration)* | Workout planning and progress tracking application | C#, .NET |
+| **tenzies-game** | "Tenzies" dice game | JavaScript, React |
+| **rock-paper-scissors** | Rock-paper-scissors game | CSS, JavaScript |
+| **memory-game** | Memory matching game | TypeScript |
+| **data-structures-and-algorithms** | Algorithmic problem solutions and data structures | C#, JavaScript |
+| **rest-api-countries-react** | REST Countries API with theme switching | TypeScript, React |
+| **rest-api-countries-vue** | Same challenge implemented in Vue 3 | Vue 3, TypeScript, Vite |
+| **to-do-list / age-calculator / results-summary** | Frontend Mentor challenges | CSS, JavaScript |
+| **freecodecamp-calculator** | Calculator application | JavaScript, React |
+| **meme-generator / note-app / air-bnb** | Scrimba frontend challenges | JavaScript, React |
+| **edge-ledger** | Responsive static business website with lightbox gallery | HTML, CSS |
+
+---
+
+## 🧰 Skills
+
+**Frontend:** React, TypeScript, Vue, Next.js, TailwindCSS, Vite, PixiJS, HTML/CSS
+
+**Backend:** .NET / ASP.NET Core, C#, Node.js, Entity Framework Core, Sequelize
+
+**Databases:** PostgreSQL, SQL Server
+
+**Architecture:** Clean Architecture, SOLID, Vertical Slice Architecture, Domain-Driven Design, modular, feature-based
+
+**APIs & Integrations:** REST API, Stripe, RAWG API, Redis (Upstash)
+
+**Tools & Testing:** Docker, Git, Makefile, xUnit, Jest, Mocha, Swagger/OpenAPI
+
+**Other:** Unity (C#), Flutter (Dart), algorithms & data structures (LeetCode)
 
 ---
 
 ## 🚀 Currently Working On
 
-**Game Navigator** 🔒 — AI-powered game tracker providing real-time, step-by-step guidance (AI + web scraping) to help players reach **100% game completion**.
+**Game Navigator** 🔒 — AI-powered game tracker providing real-time, step-by-step guidance based on information gathered from public sources through web scraping. — [GitHub](https://github.com/Prispajer/game-navigator)
 
 ---
 
-## 🚀 My Portfolio
+## 📑 Academic Projects
 
-https://prispajer.github.io/prispajer-portfolio
-
----
-
-## 📑 Developed Projects
-
-### 🔗 Potrzebnik
-
-[![GitHub](https://img.shields.io/badge/GitHub-Potrzebnik-blue?logo=github)](https://github.com/potrzebnik/potrzebnik)
-<br/>
-
-A platform is actively being built to connect pro bono organizations (such as orphanages) with potential donors.
-
-**Project Dynamics:**
-* Developed in a cross-functional team environment collaborating closely with a Product Owner, UX Designers, and Frontend/Backend developers to deliver real-world social value.
-
-**Tech:** `Next.js` • `TypeScript` • `Drizzle ORM`
-
----
-
-### 🔗 RIGBA Game Store
-
-[![GitHub](https://img.shields.io/badge/GitHub-RIGBA-blue?logo=github)](https://github.com/Prispajer/rigba-game-store)
-<br/>
-
-A full-featured game store & database, built from scratch over 11 months — covering frontend, backend, testing, documentation, and external integrations.
-
-**Project Dynamics:**
-* Secure authentication (NextAuth: Google/Facebook/Discord) with email verification and **2FA**.
-* Payments via Stripe, game data from RAWG API, uploads via UploadThing, emails via Resend.
-* Global state with Redux Toolkit, tests with Jest, REST API with Prisma + PostgreSQL.
-
-**Tech:** `Next.js` • `TypeScript` • `Prisma` • `PostgreSQL`
-
----
-
-### 🔗 Treasure Pick
-
-[![GitHub](https://img.shields.io/badge/GitHub-Treasure_Pick-blue?logo=github)](https://github.com/Prispajer/treasure-pick)
-<br/>
-
-A modular browser game system built on the PixiJS engine, designed according to Clean Architecture and SOLID principles.
-
-**Tech:** `TypeScript` • `PixiJS` • `Vite`
-
----
-
-### 🔗 NewsPortalCMS
-
-[![GitHub](https://img.shields.io/badge/GitHub-NewsPortalCMS-blue?logo=github)](https://github.com/Prispajer/news-portal-cms)
-<br/>
-
-A CMS system for managing articles and categories in a news portal — with unit tests and Docker.
-
-**Tech:** `.NET 8` • `ASP.NET Core` • `EF Core` • `PostgreSQL` • `xUnit`
-
----
-
-### 🔗 Suggor
-
-[![GitHub](https://img.shields.io/badge/GitHub-Suggor-blue?logo=github)](https://github.com/Prispajer/suggor-game)
-<br/>
-
-A 2D platformer game created as part of an engineering team project.
-
-**Tech:** `C#` • `Unity`
-
----
-
-### 🔗 Game Navigator 🔒 *(in development)*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Game_Navigator-blue?logo=github)](https://github.com/Prispajer/game-navigator)
-<br/>
-
-An AI-powered game tracker that provides real-time, step-by-step guidance (AI + web scraping) to help players reach 100% game completion.
-
-**Tech:** `C#` • `.NET / ASP.NET` • `AI` • `Web Scraping`
+- **QuarryByte Store** — complete e-commerce application developed across three academic projects covering multi-layer architecture, team development and process automation. — *C#, .NET, ASP.NET Core* — [GitHub](https://github.com/Prispajer/quarry-byte-store)
+- **Huffman Algorithm** — data compression engine implementing Huffman coding (encoder + decoder) with real-time algorithm visualization. — *C#, Viz.js, JavaScript Interop* — [GitHub](https://github.com/Prispajer/huffman-algorithm)
+- **Suggor** — 2D platformer game created as part of an engineering team project. — *C#, Unity* — [GitHub](https://github.com/Prispajer/suggor-game)
 
 ---
 
 ## 💬 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/adrian-kozie%C5%82-9413142b0/)
-- 📖 [Facebook](https://www.facebook.com/adikoxi)
-
----
+- 💼 [LinkedIn](https://www.linkedin.com/in/adrian-kozie%C5%82-9413142b0/)
+- 💻 [GitHub](https://github.com/Prispajer)
+- 🌐 [Portfolio](https://prispajer.github.io/prispajer-portfolio/)
 
 Thanks for visiting my profile! 😊
