@@ -1,6 +1,8 @@
 # Hello, I'm Prispajer 👋
 
-Welcome to my GitHub profile! I am a passionate web developer specializing in modern technologies. I love creating scalable and high-performance web applications, and I am always excited to learn new things. My master's thesis compared **React vs Vue**, giving me solid foundations in modern frontend frameworks.
+I'm a web developer focused on **React, Next.js, TypeScript and .NET**. I build modern web applications with a focus on clean architecture, performance and maintainability.
+
+My master's thesis compared **React and Vue**, giving me a strong foundation in modern frontend development.
 
 ---
 
